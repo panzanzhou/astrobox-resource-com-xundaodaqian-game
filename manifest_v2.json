@@ -1,0 +1,33 @@
+{
+  "item": {
+    "id": "com.xundaodaqian.game",
+    "restype": "quick_app",
+    "name": "寻到大千",
+    "description": "更新：修复存档问题。\n活动：前两名通关者返现2.5r\n1.一刀一树一世界，挂机修仙不问天\n\n小妖翻身砍破天，离线也能涨修为\n\n砍树爆装渡劫飞升，手环里的修仙大世界\n\n2.336×480 方寸屏，藏下一座完整仙途\n\n3.无需氪金，佛系挂机，今日你就是那只小妖\n\n4.离线挂机收益：切后台再回来，按离线时长发放灵石+元气（上限 8 小时），还原\"挂机修仙\"核心体验\n\n5.安全售卖：原\"一键售卖\"改为只出售凡品/良品，自动保留极品以上装备，避免误卖神装\n\n6.装备战力对比：穿戴时直接显示战力增减（如 战力+35 ），一眼判断是否值得换。\n\n激活到https://afdian.com/a/pan20260919，限时一元（自助），只需1个硬币，就能体验砍树修仙！\n加q群1126316461",
+    "preview": [
+      "media/Shell++_1.png"
+    ],
+    "icon": "media/IMG_20261113_201338.jpg",
+    "cover": "media/IMG_20261113_201509.png",
+    "author": [
+      {
+        "name": "z_name",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.xundaodaqian.game.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.xundaodaqian.game.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
